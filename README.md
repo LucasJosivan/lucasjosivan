@@ -1,4 +1,4 @@
-## Hi, I'm Lucas Josivan, Junior Software Developer. :)
+## Hi, I'm Lucas Josivan, Software Developer. :)
 <div align="center">
   <a href="https://github.com/lucasjosivan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasJosivan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
