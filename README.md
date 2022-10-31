@@ -18,7 +18,7 @@
   <img align="center" alt="Josivan-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Josivan-Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Josivan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
-  <img align="right" alt="Josivan-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQG1Olmpy90yeQ/profile-displayphoto-shrink_200_200/0/1619309585058?e=1644451200&v=beta&t=Db0fvSQYhobmK9fy1vgz23uWaAEDvELsfUpJWobiUhA">
+  <img align="right" alt="Josivan-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/10332471?s=400&u=f9481e7c4706c3132222930b1b4f6f772e220bb0&v=4">
 </div>
 
   ##
